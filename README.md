@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Build a classifier to predict whether a loan case will be paid off or not
 
 You can use the [editor on GitHub](https://github.com/Saadiajab/Classifier_KNN_DT_SVM_LR_to_predict_If_a-loan_case_will_be_paid_off_or_not/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
